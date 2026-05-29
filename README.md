@@ -37,7 +37,7 @@ clang++ -std=c++20 -Os -Wall -Wextra \
 
 *Note: Replace `/path/to/metal-cpp` with the actual path to your Apple `metal-cpp` directory.*
 
-### Method B: Xcode Project Setup
+### Method B: Xcode Project Setup (Recommended)
 If configuring through the Xcode IDE:
 1. Create a new **Command Line Tool** project in Xcode.
 2. Select **C++** as the primary language.
